@@ -1,7 +1,9 @@
 # Angular Crash Course Chaper 1
+https://youtu.be/rEz0gd5957w
 
 ## Links
 1. https://github.com/codeSTACKr/portfolio-sass
+2. https://youtu.be/_a5j7KoflTs
 
 ## VS Code Settings.json
 ```

@@ -1,6 +1,5 @@
 # Angular Crash Course Chaper 1
-https://youtu.be/rEz0gd5957w
-https://www.youtube.com/watch?v=rEz0gd5957w
+https://youtu.be/xf_yC3oEWuM
 
 ## Links
 1. https://github.com/codeSTACKr/portfolio-sass
